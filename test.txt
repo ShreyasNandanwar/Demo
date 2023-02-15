@@ -1,0 +1,25 @@
+I am good
+[B
+[1;5t[1;5t$$
+$
+$
+
+
+
+
+close
+d
+ls
+[D[[A[A[A[A[[C[[A[A[C[B[A[A[A[C[C[C[C[C[C[C[C[C
+
+cat test.txt
+[A[C[C[C[C[C[C[C[C[
+[A[A[C[C[C[A[C[C[C[C[C[C[C
+
+[A[C[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B
+
+
+[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[B[D[D[D[B[D[A[D
+4
+$
+[A[
